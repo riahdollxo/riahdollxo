@@ -1,15 +1,14 @@
 # Hi, I'm Mariah!
 
-I'm an Information Technology student at Florida A&M University (FAMU) with interests in software development, cybersecurity, AI etc.
-
-I enjoy building things, solving problems, and improving systems, especially systems in technology, security, or environmental sustainability.
-
-Outside of tech, I'm an entrepreneur and the owner of Obnoxious Nails. I also enjoy graphic design, branding, fashion, styling, and creative expression.
+I'm an Information Technology student at THE Florida A&M University (FAMU)🧡💚 with interests in software development, cybersecurity, AI etc.
+I enjoy building things, solving problems, and improving systems.
+Outside of tech, I'm an entrepreneur and the owner of Obnoxious Nails and I have a fashion styling busoiness too. I also enjoy graphic design, and anything that allows me to creatively express myself.
 
 ## 🌱 Currently Exploring
 - Open source development
 - Cybersecurity and vulnerability management
 - Software engineering
+- Vibe coding
 - Artificial intelligence
 - Environmental technology
 
