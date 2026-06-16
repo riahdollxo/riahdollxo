@@ -19,7 +19,7 @@ Outside of tech, I'm an entrepreneur and the owner of Obnoxious Nails and I have
 - Canva
 - Slack & Zoom
 
-## ✨ Fun Facts
+## ✨ A Lil Something About Me
 - I'm a non-traditional student and lifelong learner.
 - I enjoy dancing, nature walks, and traveling.
 - My nail work has been featured on artist Shae Universe in Getty Images , campaigns with Walmart via Pardon my Fro, Levi's, and more!
