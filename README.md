@@ -26,4 +26,9 @@ Outside of tech, I'm an entrepreneur and the owner of Obnoxious Nails and I have
 - I love the intersection of technology, creativity, and entrepreneurship and I'm hoping to make a positive imact in this industry.
 
 ### 📫 Connect With Me
--[LinkedIn](https://www.linkedin.com/in/mariah-piggs-a428a589/)
+-[LinkedIn](https://www.linkedin.com/in/mariah-piggs-a428a589/) 
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
