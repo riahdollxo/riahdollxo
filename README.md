@@ -23,12 +23,6 @@ Outside of tech, I'm an entrepreneur and the owner of Obnoxious Nails and I have
 - Canva
 - Slack & Zoom
 
-### ✨ A Lil Something About Me
-- I'm a non-traditional student and lifelong learner.
-- I enjoy dancing, nature walks, and traveling.
-- My nail work has been featured on artist Shae Universe in Getty Images , campaigns with Walmart via Pardon my Fro, Levi's, and more!
-- I love the intersection of technology, creativity, and entrepreneurship and I'm hoping to make a positive imact in this industry.
-
 ## 🚀 Current Projects
 
 ### 🌻 Bloom Break
@@ -48,6 +42,12 @@ Try Stocked Up: [Stocked Up](https://cozy-inventory-ai.lovable.app)
 FreshWater Finder is a sustainability-focused application that I designed and built to help users discover and learn about freshwater resources in their communities. The project combines technology and environmental awareness to make valuable water resource information more accessible.
 
 Try FreshWater Finder: [FreshWater Finder](https://fresh-water-spotter.lovable.app)
+
+### ✨ A Lil Something About Me
+- I'm a non-traditional student and lifelong learner.
+- I enjoy dancing, nature walks, and traveling.
+- My nail work has been featured on artist Shae Universe in Getty Images , campaigns with Walmart via Pardon my Fro, Levi's, and more!
+- I love the intersection of technology, creativity, and entrepreneurship and I'm hoping to make a positive imact in this industry.
 
 ### 📫 Connect With Me
 -[LinkedIn](https://www.linkedin.com/in/mariah-piggs-a428a589/) 
