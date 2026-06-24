@@ -25,6 +25,12 @@ Outside of tech, I'm an entrepreneur and the owner of Obnoxious Nails and I have
 - My nail work has been featured on artist Shae Universe in Getty Images , campaigns with Walmart via Pardon my Fro, Levi's, and more!
 - I love the intersection of technology, creativity, and entrepreneurship and I'm hoping to make a positive imact in this industry.
 
+### 🌻 Bloom Break
+
+Bloom Break is a wellness-focused desktop companion that I designed and built to encourage mindful breaks, healthy habits, and balanced productivity. The application features Sunnie, an interactive sunflower companion that grows and evolves as users engage in positive self care activities throughout the day.cInspired by the idea that small habits can lead to meaningful growth, Bloom Break combines productivity, wellness, and playful design to create a more enjoyable work and study experience
+
+Try Bloom Break: [Bloom Break](https://lovable.dev/projects/44e6f22f-0410-4f4e-aecc-ff9f21632e37)
+
 ### 📫 Connect With Me
 -[LinkedIn](https://www.linkedin.com/in/mariah-piggs-a428a589/) 
 
